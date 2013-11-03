@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UniformTextView</string>
+    <string name="text_view_name">TextView:</string>
+    <string name="uniform_name">UniformTextView:</string>
+    <string name="sample_text">This is a possibly two lines text</string>
+    <string name="three_line_sample">This is a sample text which possibly wraps to three lines, is it OK?</string>
+
+</resources>
